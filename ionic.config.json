@@ -1,0 +1,8 @@
+{
+  "name": "Shirne",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue",
+  "id": "c8763d7c"
+}
